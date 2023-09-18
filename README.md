@@ -2,4 +2,5 @@
 
 ### Overview
 
-This is the starter project for iOS 101 Lab 1 Mario Kart
+This is a beginner application to demostrate the understanding of using the programming language "Swift"
+I have demonstrated how to do that by making a MarioKart app with the guidance from Codepath. 
